@@ -1,0 +1,1 @@
+print(input("Input: ").translate(str.maketrans("","","aeiouAEIOU")))

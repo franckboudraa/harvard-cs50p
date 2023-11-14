@@ -1,0 +1,1 @@
+print(input("How are you? ").lower())
